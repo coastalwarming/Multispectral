@@ -1,5 +1,4 @@
 # Multispectral
-Platform to perform dynamic and multispectral photobiology experiments in a 24 well microplate.
 ========================================
 <table class="table table-hover table-striped table-bordered">
   <tr align="center">
