@@ -3,11 +3,11 @@ Platform to perform dynamic and multispectral photobiology experiments in a 24 w
 ========================================
 <table class="table table-hover table-striped table-bordered">
   <tr align="center">
-   <td><img src="Images/Open and closed unit_1.png" alt="Mesocosm 1 Image" width="300"></td>
-   <td><img src="Images/Multispectral_Whole_3D perspective.png" alt="Mesocosm 2 Image" width="300"></td>
+   <td><img src="Images/Open and closed unit_1.jpg" alt="Multispectral 1 Image" width="300"></td>
+   <td><img src="Images/Multispectral_Whole_3D perspective.png" alt="Multispectral 2 Image" width="300"></td>
   </tr>
 </table>
-The Mesocosm system enables real-time, remote management of water temperature, accommodating natural fluctuations and simulated warming scenarios. Designed with affordability and scalability in mind, this innovative approach facilitates a wide range of experimental applications, advancing our understanding of global change impacts within diverse aquatic ecosystems.
+The Multipectal is a prototype to conduct photobiology experiments in a 24 well microplates that can apply individual light intensities at each well on na continuous and dynamic profile. Designed with affordability and scalability in mind, this innovative approach facilitates a wide range of experimental applications in photobiology and optogenetics.
 
 
 Repository Contents
