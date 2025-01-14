@@ -3,8 +3,8 @@ Platform to perform dynamic and multispectral photobiology experiments in a 24 w
 ========================================
 <table class="table table-hover table-striped table-bordered">
   <tr align="center">
-   <td><img src="Images/Mesocosm_Field.jpg" alt="Mesocosm 1 Image" width="300"></td>
-   <td><img src="Images/Mesocosm_3D.jpg" alt="Mesocosm 2 Image" width="300"></td>
+   <td><img src="Images/Open and closed unit_1.png" alt="Mesocosm 1 Image" width="300"></td>
+   <td><img src="Images/Multispectral_Whole_3D perspective.png" alt="Mesocosm 2 Image" width="300"></td>
   </tr>
 </table>
 The Mesocosm system enables real-time, remote management of water temperature, accommodating natural fluctuations and simulated warming scenarios. Designed with affordability and scalability in mind, this innovative approach facilitates a wide range of experimental applications, advancing our understanding of global change impacts within diverse aquatic ecosystems.
