@@ -1,5 +1,4 @@
 # Multispectral
-========================================
 <table class="table table-hover table-striped table-bordered">
   <tr align="center">
    <td><img src="Images/Open and closed unit_1.jpg" alt="Multispectral 1 Image" width="300"></td>
